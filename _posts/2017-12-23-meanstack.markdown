@@ -10,4 +10,6 @@ Its been a while since my last post. Just wanted to write something down, just f
 
 I had taken up coordinatorship in Mood Indigo 2k17 this summer, under the Web Department, (although I really don't like web dev, makes you do tonnes of work without any scope for innovation, I'll post about this debate soon :P) Creatives. The task at hand was to make a game, something that everyone could play, without much to learn.
 
-We decided on a somewhat popular format, that of a cryptic puzzle.
+We were initially thinking about an rpg style thing, but since "playable by all" was the goal, we decided on a somewhat popular format, that of a cryptic puzzle.
+
+

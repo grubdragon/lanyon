@@ -10,15 +10,19 @@ The creation of this blog marks the end of an era. An era which will be known to
 Talking about the time I was procrastinating making my own Jekyll blog ofcourse.
 
 {% highlight bash %}
-wget https://github.com/hemangsk/Gravity/archive/master.zip 
-unzip master.zip
-mv Gravity-master grubdragon.github.io
+wget https://github.com/grubdragon/lanyon/archive/v1.0.0.zip 
+unzip v1.0.0.zip
+mv lanyon-1.0.0 grubdragon.github.io
 cd grubdragon.github.io
 git init
 git add .
 git commit -m "Init"
+git apply ../fixes.patch
+git apply ../customizations.patch
 git remote add origin https://github.com/grubdragon/grubdragon.github.io.git
 git push origin master
 {% endhighlight %}
+
+That should've been simple shouldn't it? Hrrrmmmmmmm.
 
 Q1ux5PPv
