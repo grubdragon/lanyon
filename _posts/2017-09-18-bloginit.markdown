@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "grubdragon.github.io()"
+date:   2017-09-18 17:30:00 +0530
+categories: jekyll update
+---
+
+Hello World!
+
+The creation of this blog marks the end of an era. An era which will be known to man as one of the longest. A winter that never had an end in sight!
+
+Talking about the time I was procrastinating making my own Jekyll blog ofcourse.
+
+{% highlight bash %}
+wget https://github.com/hemangsk/Gravity/archive/master.zip 
+unzip master.zip
+mv Gravity-master grubdragon.github.io
+cd grubdragon.github.io
+git init
+git add .
+git commit -m "Init"
+git remote add origin https://github.com/grubdragon/grubdragon.github.io.git
+git push origin master
+{% endhighlight %}
+
+Q1ux5PPv
