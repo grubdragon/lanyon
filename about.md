@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hello there! :)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm Aryan Agal, a sophomore of Energy Science, IIT Bombay. I am a big time coding enthusiast and I revere concepts of computer science in general. I love listening to music, post-punk revival and the sort (please forward good playlists through any of the mediums below), and playing basketball, although I haven't been giving it much time these days.
 
-There are currently two themes built on Poole:
+I am always in the "There's a lot to do but no time to do it in" mode which often means I'm either flooded with too much work, or I'm simply trying to make myself look like it. I also take interest in Electronics and Robotics, and I've been part of the club as since my freshman year. I'm also a casual volunteer of the Web and Coding Club (tty10 <i class="fa fa-heart" aria-hidden="true"></i>).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Catch me on <a href="http://facebook.com/aryan.agal.30"><i class="fa fa-facebook"></i></a> / <a href="http://github.com/grubdragon"><i class="fa fa-github"></i></a> / <a href="mailto:aryanagal98@gmail.com"><i class="fa fa-envelope-o"></i></a> and drop me a line if you want to work with me on something, or just chat, I'd be happy to hear from you!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions/suggestions/fixes? Feel free to [open an issue on GitHub](https://github.com/grubdragon/grubdragon.github.io/issues/new) or [ask me on Facebook](http://facebook.com/aryan.agal.30).
 
 Thanks for reading!

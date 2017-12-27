@@ -5,9 +5,9 @@ permalink:           pretty
 # relative_permalinks: true 	removing as per PR 
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               Musings
+tagline:             'A thought journal'
+description:         'This thought journal is maintained by <a href="https://github.com/grubdragon" target="_blank">@grubdragon</a>'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
@@ -15,7 +15,7 @@ paginate:            5
 # About/contact
 author:
   name:              Aryan Agal
-  url:               https://twitter.com/mdo
+  url:               https://grubdragon.github.io
   email:             aryanagal98@gmail.com
 
 # Custom vars
