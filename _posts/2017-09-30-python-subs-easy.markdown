@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A (Simple) Subtitler in Python"
-tags: [python, tutorial, rattlesnake]
+tags: [python, tutorial, rattlesnake, development]
 ---
 Being a part of the Web and Coding Club (WnCC), has its perks, and you can often find yourself doing some randomly productve things for it.
 
