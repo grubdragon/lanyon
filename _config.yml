@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Musings
 tagline:             'A thought journal'
 description:         'This thought journal is maintained by <a href="https://github.com/grubdragon" target="_blank">@grubdragon</a>'
-url:                 http://lanyon.getpoole.com
+url:                 https://grubdragon.github.io
 baseurl:             ''
 paginate:            5
 

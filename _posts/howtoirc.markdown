@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A wild couple of weeks on MEAN Stack"
-tags: [web, development, mean, game]
-assetsdir: /assets/meanstack
+title:  "How to IRC: "
+tags: [development, foss, irc, opensource]
+assetsdir: /assets/howtoirc
 ---
 
 Hey folks!
