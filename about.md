@@ -11,6 +11,8 @@ I am always in the "There's a lot to do but no time to do it in" mode which ofte
 
 Catch me on <a href="http://facebook.com/aryan.agal.30"><i class="fa fa-facebook"></i></a> / <a href="http://github.com/grubdragon"><i class="fa fa-github"></i></a> / <a href="mailto:aryanagal98@gmail.com"><i class="fa fa-envelope-o"></i></a> and drop me a line if you want to work with me on something, or just chat, I'd be happy to hear from you!
 
+Also, if you're interested, here's a brief <a href="aryan_cv.pdf">CV</a>.
+
 Have questions/suggestions/fixes? Feel free to [open an issue on GitHub](https://github.com/grubdragon/grubdragon.github.io/issues/new) or [ask me on Facebook](http://facebook.com/aryan.agal.30).
 
 Thanks for reading!
