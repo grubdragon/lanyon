@@ -46,4 +46,4 @@ Verdict: BE A MAN AND GET A REAL DATABASE YOU LOUSY BOYO
 AngularJS. Ahhhh. I remember my days of struggle with it. Tried so much with Angular, but never found a decent tutorial. Legend has it that some souls are still looking for an Angular tutorial. To be honest, I directly looked at code, before even looking at a tutorial. NOT INTUITIVE, I repeat NOT INTUITIVE.
 Anyway, from what I understand, Angular is used for SPAs or Single Page Applications. This is basically for better user experience, given that the page doesn't reload everytime. It is one of the more comprehensive client-side solutions.
 
-<center><i class="fa fa-circle-o-notch fa-spin" style="font-size:24px"></i></center>
+<center><i id="scrollTo" class="fa fa-circle-o-notch fa-spin" style="font-size:24px"></i></center>

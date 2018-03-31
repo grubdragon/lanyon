@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "How to IRC"
+tags: [development, foss, irc, opensource, tutorial]
+assetsdir: /assets/howtoirc
+---
+
+Hey folks!
+
+Its been a while since my last post YET AGAIN. Had some venting to do, so here I am :D. Also, this may serve as a tutorial for those who want to get up and running with IRC (Internet Relay Chat). If you want to skip to that click [here](#IRC).
+
+Its been a hectic semester, and if you are one of those people who know me a little, you DEFINITELY know what I'm up to - yes I'm talking about taking 58 credits this semester. Would you stop smiling please!!?????
+And you know what's the most tiring thing about taking so many credits? It's the goddamn questions. Why did you take 58 credits? WHY? To them I answer - WHY THE **** NOT? Now I am a person who likes studying and right now I'm trying to study "a certain science" which lies outside the purview of my current major. People who know me - you can stop laughing now okay? -_-
+Yes, its heavy. Things haven't been easy. Getting grades is hard. So hard. Everybody is fighting for them, EVERY. SINGLE. PERSON. And once you slack, its not gonna be easy to come back and you very well know it. So yeah, that's life right now.
+Other than that I've been trying out things online. I took a recent interest in Firefox Focus - Android, the privacy-based browser by Mozilla. Been trying to contribute in small amounts every now and then, but overall it's been nice.  It's been a while since I started though, so I've kinda lost my touch with the project and coding in general. I really need to a small project, to get me right back up to speed.
+
+Enough of that shit. Getting back to the real topic - IRC.
+<a name="IRC"></a>
+## What is IRC? 
+It is a client-server type, application layer protocol. By my perception, it allows for group communication over channels and private messages to other IRCers. Mainly used for textual communication. You can start your own IRC space, by installing a server on your own PC and connect with clients on other PCs. I've been thinking of setting up one locally within IITB, but I'd need some real enthu for that. Hmmm..........
+
+## Why IRC?
+You may have seen that IRC is pretty popular with FOSS projects. It's natural to ask why. So here's the answer: because it's really, really simple. That's it. Anybody can install an IRC server and be done with it. And you know the best part? IRC looks really plain and stupid(too honest, but true). So any random normie can't just start using it. You really need a little patience and getting used to, to start working with IRC. I think that makes it a brilliant solution. Just saying. (This strategy works with GitHub too, anybody can make issues, but you don''t see spam on GitHub generally. I'd say that's partially because of two reasons - a)spammers are generally coders, and any coder would appreciate and support open source b)Normies don't use GitHub)
+
+## How do I start?
+First things first - you'll need a client. Here's a list I sourced off [Mozilla's IRC Wiki](https://wiki.mozilla.org/IRC)
+* [Mibbit](http://mibbit.com/): Web-based, my personal recommendation. 
+* [Kiwi IRC](https://kiwiirc.com/): Open Source,works on mobile, again web-based.
+* [Chatzilla](https://addons.mozilla.org/en-US/firefox/addon/chatzilla/): Firefox addon + [standalone](http://chatzilla.rdmsoft.com/xulrunner/).
+* [Konversation](http://konversation.kde.org/): KDE client for Linux. Gave up trying to install this one.
+* [Colloquy](http://colloquy.info/): Mac/iPad/iPhone/iTouch - never had one ¯\_(ツ)_/¯
+* [Thunderbird](http://www.mozilla.org/en-US/thunderbird/) is a communication client made by Mozilla. As of version 15, it has IRC support.
+* [HexChat](https://hexchat.github.io/): apparently great, again gave up on trying this one. Had to build it myself, and lost out on some dependencies.
+
+You can look for more on the above link. However, some FOSS projects use [FreeNode](http://webchat.freenode.net/), which is the easiest option according to me: type in a channel with a '#' and a nick, and you're done. It's a server with an online client, so basically like normal chat, with IRC features. 
+
+Yeah so now that you have a client with you, its time to connect to a server. Some common URI schemes of IRC servers look like:
+
+    irc://<host>[:<port>]/[<channel>[?<channel_keyword>]]
+    ircs://<host>[:<port>]/[<channel>[?<channel_keyword>]]
+    irc6://<host>[:<port>]/[<channel>[?<channel_keyword>]]
+   
+So every server connection requires you to provide some information. You may get it on a website/GitHub of your org. You often get to pick your own nickname.
+
+## Using IRC
+
+### Nicknames
+This is basically your identity when hanging out with strangers. A case-insensitive, hopefully unique nickname.
+
+<b>Setting nick:</b> You need a nick before you start communicating, you may set it with:
+
+    /nick NICKNAME
+
+<b>Registering nick:</b> If you plan to hangout often, then it would be better to just reserve your nick using -
+
+    /msg nickserv register [YOUR PASSWORD] [YOUR EMAIL]
+    
+  This should generally trigger an email which would tell you a command to type on the console, which when entered would register your nick. Freenode nicks generally expire after a time limit, do check with your server on expiry details just in case. Next time you login, you'd need to identify yourself with 
+
+    /msg nickserv identify [YOUR PASSWORD]
+
+
+### Private Messaging
+As I said earlier, IRC enables us to start private chats with other server members. To start a private chat, you must be in the same room as them. Command to start a private chat: 
+
+    /msg <other person's nick> <first message>
+
+### Miscellaneous 
+Just a couple of commands left. To list all the names in the current channel, the command to use is
+
+    /name
+    
+If you're not sure what room someone is in you can go to the main server and do 
+
+    /whois <other person's nick>
+    
+This should help you start private chats with them.
+
+## Wrapping Up
+That's it folks! This should be enough to get you started with IRC. Some things I've omitted are channel and user modes - you might want to look that up. 
+So go contact your favorite org and seek help on the projects you wish to work on! IRC is a great way to connect with organizations working in FOSS. If you plan to do GSoC, it would be quite helpful to learn to use IRC, this being one of the main modes of communication. Other than that, join mailing lists of the project to know the discussion of the community and what's important to them. The most essential thing is to contact them at the earliest.
+
