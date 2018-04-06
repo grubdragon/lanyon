@@ -15,6 +15,10 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content | truncatewords:100 }}
+    <br>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+    continue reading..
+    </a>
   </div>
   {% endfor %}
 </div>
