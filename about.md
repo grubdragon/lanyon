@@ -5,7 +5,7 @@ title: About
 
 Hello there! :)
 
-I'm Aryan Agal, a sophomore of Energy Science, IIT Bombay. I am a big time coding enthusiast and I revere concepts of computer science in general. I love listening to music, post-punk revival and the sort (please forward good playlists through any of the mediums below), and playing basketball, although I haven't been giving it much time these days.
+I'm Aryan Agal, a sophomore of Energy Science, IIT Bombay. I am a big time coding enthusiast and I revere concepts of computer science in general. I love listening to music (progressive a little psychedelic and post-progressive rock) and playing basketball, although I haven't been giving it much time these days.
 
 I am always in the "There's a lot to do but no time to do it in" mode which often means I'm either flooded with too much work, or I'm simply trying to make myself look like it. I also take interest in Electronics and Robotics, and I've been part of the club as since my freshman year. I'm also a casual volunteer of the Web and Coding Club (tty10 <i class="fa fa-heart" aria-hidden="true"></i>).
 
