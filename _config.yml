@@ -17,7 +17,8 @@ author:
   name:              Aryan Agal
   url:               https://grubdragon.github.io
   email:             aryanagal98@gmail.com
-
+  github:            https://github.com/grubdragon
+  
 # Custom vars
 version:             1.0.0
 google_analytics:    'UA-116698723-1'
