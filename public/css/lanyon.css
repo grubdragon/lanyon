@@ -561,3 +561,14 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+.cd-top.cd-top--show { 
+ /* the button becomes visible */ 
+ visibility: visible;
+ opacity: 1;
+} 
+
+.cd-top.cd-top--fade-out { 
+ /* if the user keeps scrolling down, the button is out of focus and becomes less visible */ 
+ opacity: .5; 
+}
