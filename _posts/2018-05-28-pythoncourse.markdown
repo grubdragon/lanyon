@@ -4,9 +4,7 @@ title:  "A Course in Python"
 tags: [python, development, tutorial]
 ---
 
-Hey folks!
-
-This blog post contains all the information for the Python course.
+This blog post contains all the information for the Python Course as part of TSS by UGAC - IIT Bombay. (Instructor for Python(2018))
 
 ## Transcript of Sent Emails
 <div class="message">
