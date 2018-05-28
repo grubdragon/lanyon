@@ -25,4 +25,4 @@ google_analytics:    'UA-116698723-1'
 
 #added gem dependency
 plugins:
-    [jekyll-paginate]
+    [jekyll-paginate, jekyll-feed]
