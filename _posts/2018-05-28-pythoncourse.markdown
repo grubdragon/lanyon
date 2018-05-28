@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "A Course in Python"
+tags: [python, development, tutorial]
+---
+
+Hey folks!
+
+This blog post contains all the information for the Python course.
+
+## Transcript of Sent Emails
+<div class="message">
+  Bring your laptops along with you with python installed in it. You can find the instructions to install python on [http://docs.python-guide.org/en/latest/starting/installation/]
+</div>
+
+<div class="message">
+Greetings!
+Here's something that will interest you. An awesome book on python shared by our instructor. The link to it is as follows :  [https://automatetheboringstuff.com/]
+Also for the Mac users having trouble opening IDLE here is something that might help you out:  [https://docs.python.org/3/using/mac.html]
+</div>
+
+<div class="message">
+  A brilliant post to go through to understand the basics: [https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567 ]
+</div>
+
+## Assignments
+Here lie the assignments I have given out to the course takers.
+### Assignment 1
+Write a cryptography program. It should have the following functions:
+ - caesar(s, shift, enc): takes a string and caesar-shifts the string by integer "shift"
+ - rot13(s, enc): takes a string and uses rot13 cipher on it
+ - coltrans(s, key, enc): takes two strings, s and key(where key is space separated numbers of columns) and applies Columnar Transposition. Depending on the number of numbers in key, the behavior may differ i.e. using 5 numbers means you need to use 5 columns 
+ - skip(s, skip, enc): takes a string and applies the skip cipher using the integer skip.
+
+'enc' is a boolean value. If you pass enc as True, it should encode, and as False it should decode.
+ 
+ Some reference information that might help you:
+[http://rumkin.com/tools/cipher/caesar.php](Caesar Shift)
+[http://rumkin.com/tools/cipher/rot13.php](ROT13)
+[http://rumkin.com/tools/cipher/coltrans.php](Columnar Transposition)
+[http://rumkin.com/tools/cipher/caesar.php](Caesar Shift)
