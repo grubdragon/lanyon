@@ -10,21 +10,22 @@ This blog post contains all the information for the Python course.
 
 ## Transcript of Sent Emails
 <div class="message">
-  Bring your laptops along with you with python installed in it. You can find the instructions to install python on [http://docs.python-guide.org/en/latest/starting/installation/]
+  Bring your laptops along with you with python installed in it. You can find the instructions to install python <a href="http://docs.python-guide.org/en/latest/starting/installation/">here</a>
 </div>
 
 <div class="message">
 Greetings!
-Here's something that will interest you. An awesome book on python shared by our instructor. The link to it is as follows :  [https://automatetheboringstuff.com/]
-Also for the Mac users having trouble opening IDLE here is something that might help you out:  [https://docs.python.org/3/using/mac.html]
+Here's something that will interest you. An awesome book on python shared by our instructor. The link to it is as follows : <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff</a>
+Also for the Mac users having trouble opening IDLE here is something that might help you out:  <a href="https://docs.python.org/3/using/mac.html">MacPython</a>
 </div>
 
 <div class="message">
-  A brilliant post to go through to understand the basics: [https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567 ]
+  A brilliant post to go through to understand the basics: <a href="https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567">Learning Python: From Zero to Hero</a>
 </div>
 
 ## Assignments
-Here lie the assignments I have given out to the course takers.
+Herein lie the assignments I have given out to the course takers.
+
 ### Assignment 1
 Write a cryptography program. It should have the following functions:
  - caesar(s, shift, enc): takes a string and caesar-shifts the string by integer "shift"
@@ -35,7 +36,7 @@ Write a cryptography program. It should have the following functions:
 'enc' is a boolean value. If you pass enc as True, it should encode, and as False it should decode.
  
  Some reference information that might help you:
-[http://rumkin.com/tools/cipher/caesar.php](Caesar Shift)
-[http://rumkin.com/tools/cipher/rot13.php](ROT13)
-[http://rumkin.com/tools/cipher/coltrans.php](Columnar Transposition)
-[http://rumkin.com/tools/cipher/caesar.php](Caesar Shift)
+* [Caesar Shift](http://rumkin.com/tools/cipher/caesar.php)
+* [ROT13](http://rumkin.com/tools/cipher/rot13.php)
+* [Columnar Transposition](http://rumkin.com/tools/cipher/coltrans.php)
+* [Caesar Shift](http://rumkin.com/tools/cipher/caesar.php)
