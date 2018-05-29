@@ -21,6 +21,11 @@ Also for the Mac users having trouble opening IDLE here is something that might 
   A brilliant post to go through to understand the basics: <a href="https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567">Learning Python: From Zero to Hero</a>
 </div>
 
+<div class="message">
+Here is the link to the material used during the class:
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT - 6.0001 - Introduction to Computer Science and Programming in Python</a>
+</div>
+
 ## Assignments
 Herein lie the assignments I have given out to the course takers.
 
