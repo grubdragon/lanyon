@@ -26,6 +26,38 @@ Here is the link to the material used during the class:
 <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT - 6.0001 - Introduction to Computer Science and Programming in Python</a>
 </div>
 
+<div class="message">
+Some resources for you:
+Goes from start to end, giving you a vivid taste of the language. Good for strengthening basics:
+https://learnpythonthehardway.org/python3/
+
+For an interactive learning experience (free one is good enough):
+https://www.codecademy.com/learn/python
+
+To learn webscraping, making scripts and other cool stuff with Python:
+https://automatetheboringstuff.com/
+Webscraping only
+https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+
+How to use Jupyter Notebooks:
+https://unidata.github.io/online-python-training/notebook.html
+https://www.youtube.com/watch?v=Rc4JQWowG5I
+http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html
+
+Numpy (Computational library of Python):
+https://docs.scipy.org/doc/numpy/user/quickstart.html
+
+Also checkout Matplotlib, Pandas, Seaborn for Data Science
+TensorFlow, PyTorch, Sci-kit Learn, Keras for Machine Learning (Neural Networks etc.)
+Scipy for some Math, Science and Engineering applications
+Kivy, Tkinter,Qt  for GUI based stuff
+Pygame for Game Development
+OpenCV,Pillow for Image Processing
+Django for a Server-Side web framework
+eyeD3 - Working with audio files containing ID3 metadata.
+And many more
+</div>
+
 ## Assignments
 Herein lie the assignments I have given out to the course takers.
 
