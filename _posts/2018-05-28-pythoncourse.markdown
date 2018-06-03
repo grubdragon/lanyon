@@ -28,24 +28,28 @@ Here is the link to the material used during the class:
 
 <div class="message">
 Some resources for you:
+
 Goes from start to end, giving you a vivid taste of the language. Good for strengthening basics:
-https://learnpythonthehardway.org/python3/
+
+<a href="https://learnpythonthehardway.org/python3/">Learn Python the Hard Way</a>
 
 For an interactive learning experience (free one is good enough):
-https://www.codecademy.com/learn/python
+<a href="https://www.codecademy.com/learn/python">Python at CodeAcademy</a>
 
 To learn webscraping, making scripts and other cool stuff with Python:
-https://automatetheboringstuff.com/
+<a href="https://automatetheboringstuff.com/">Automate the Boring Stuff</a>
 Webscraping only
-https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+<a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">GeeksForGeeks - Webscraping Tutorial using BeautifulSoup</a>
 
 How to use Jupyter Notebooks:
-https://unidata.github.io/online-python-training/notebook.html
-https://www.youtube.com/watch?v=Rc4JQWowG5I
-http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html
+<a href="https://unidata.github.io/online-python-training/notebook.html">How to Start and Run a Jupyter Notebook</a>
+
+<a href="https://www.youtube.com/watch?v=Rc4JQWowG5I">Introduction - Jupyter Tutorial (IPython 3)</a>
+
+<a href="http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html">Notebook Basics</a>
 
 Numpy (Computational library of Python):
-https://docs.scipy.org/doc/numpy/user/quickstart.html
+<a href="https://docs.scipy.org/doc/numpy/user/quickstart.html">Numpy - Quickstart tutorial</a>
 
 Also checkout Matplotlib, Pandas, Seaborn for Data Science
 TensorFlow, PyTorch, Sci-kit Learn, Keras for Machine Learning (Neural Networks etc.)
