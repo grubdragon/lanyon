@@ -27,38 +27,33 @@ Here is the link to the material used during the class:
 </div>
 
 <div class="message">
-Some resources for you:
+Some resources for you:<br>
+Goes from start to end, giving you a vivid taste of the language. Good for strengthening basics:<br>
+<a href="https://learnpythonthehardway.org/python3/">Learn Python the Hard Way</a><br>
+For an interactive learning experience (free one is good enough):<br>
+<a href="https://www.codecademy.com/learn/python">Python at CodeAcademy</a><br>
+To learn webscraping, making scripts and other cool stuff with Python:<br>
+<a href="https://automatetheboringstuff.com/">Automate the Boring Stuff</a><br>
+Webscraping only<br>
+<a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">GeeksForGeeks - Webscraping Tutorial using BeautifulSoup</a><br>
+How to use Jupyter Notebooks:<br>
+<a href="https://unidata.github.io/online-python-training/notebook.html">How to Start and Run a Jupyter Notebook</a><br>
 
-Goes from start to end, giving you a vivid taste of the language. Good for strengthening basics:
+<a href="https://www.youtube.com/watch?v=Rc4JQWowG5I">Introduction - Jupyter Tutorial (IPython 3)</a><br>
 
-<a href="https://learnpythonthehardway.org/python3/">Learn Python the Hard Way</a>
+<a href="http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html">Notebook Basics</a><br>
 
-For an interactive learning experience (free one is good enough):
-<a href="https://www.codecademy.com/learn/python">Python at CodeAcademy</a>
+Numpy (Computational library of Python):<br>
+<a href="https://docs.scipy.org/doc/numpy/user/quickstart.html">Numpy - Quickstart tutorial</a><br>
 
-To learn webscraping, making scripts and other cool stuff with Python:
-<a href="https://automatetheboringstuff.com/">Automate the Boring Stuff</a>
-Webscraping only
-<a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">GeeksForGeeks - Webscraping Tutorial using BeautifulSoup</a>
-
-How to use Jupyter Notebooks:
-<a href="https://unidata.github.io/online-python-training/notebook.html">How to Start and Run a Jupyter Notebook</a>
-
-<a href="https://www.youtube.com/watch?v=Rc4JQWowG5I">Introduction - Jupyter Tutorial (IPython 3)</a>
-
-<a href="http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html">Notebook Basics</a>
-
-Numpy (Computational library of Python):
-<a href="https://docs.scipy.org/doc/numpy/user/quickstart.html">Numpy - Quickstart tutorial</a>
-
-Also checkout Matplotlib, Pandas, Seaborn for Data Science
-TensorFlow, PyTorch, Sci-kit Learn, Keras for Machine Learning (Neural Networks etc.)
-Scipy for some Math, Science and Engineering applications
-Kivy, Tkinter,Qt  for GUI based stuff
-Pygame for Game Development
-OpenCV,Pillow for Image Processing
-Django for a Server-Side web framework
-eyeD3 - Working with audio files containing ID3 metadata.
+Also checkout Matplotlib, Pandas, Seaborn for Data Science<br>
+TensorFlow, PyTorch, Sci-kit Learn, Keras for Machine Learning (Neural Networks etc.)<br>
+Scipy for some Math, Science and Engineering applications<br>
+Kivy, Tkinter,Qt  for GUI based stuff<br>
+Pygame for Game Development<br>
+OpenCV,Pillow for Image Processing<br>
+Django for a Server-Side web framework<br>
+eyeD3 - Working with audio files containing ID3 metadata.<br>
 And many more
 </div>
 
