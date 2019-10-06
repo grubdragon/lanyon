@@ -15,6 +15,7 @@ RPi is widely used for a variety of reasons:
 ## Setting Up
 ### Requirements
 ***Basic Setup***:RPi, MicroUSB attachment(to power RPi), a microSD card(below 64GB, recommended 16GB), MicroSD Card Reader, A WiFi Router or Ethernet Cable.
+
 ***Easy Setup***:RPi, MicroUSB attachment(to power RPi), a microSD card(below 64GB, recommended 16GB), MicroSD Card Reader, A WiFi Router or Ethernet Cable, HDMI Cable, Monitor with HDMI support, Keyboard+Mouse(Could do with one of the two, not very sure but prefer both).
 [You should read this page before buying anything.][1]
 
@@ -28,9 +29,12 @@ So we have an OS on the RPi. Now what? We need to setup some sort of connection 
 I think you're good from now on!
 
 * Basic setup: No simple way to say this but I've failed at this method a few times. Sometimes it's because of the terrible WiFi module on the RPi(or terrible WiFi I use), sometimes I mess up, sometimes its a plain old fashioned error I can't understand how to debug because I can't see anything. Easiest thing to do would be use the easy setup once, configure your RPi, then it'll be fine to just use remote access. But if you can't access equipment, here we go!
- The crux is to get the RPi on the same local network as the PC. We can just use an ethernet cable and connect our RPi to our PCs. That is quite easy. If you don't have one read the next paragraph. Anyway with this method what you can do is do the same edits as <a href="file_edits_">here</a>, but using the terminal. Let's go over them.
+
+ The crux is to get the RPi on the same local network as the PC. We can just use an ethernet cable and connect our RPi to our PCs. That is quite easy. If you don't have one read the next paragraph. Anyway with this method what you can do is do the same edits as <a href="file_edits_">here</a>, but using the terminal. Let's go over them.(Unfinished sorry).
+ 
  Start with your SD Card (plugged in to your PC). We need to edit some specific files in it to make the RPi connect to a wireless network and start using it. I found a decent blog post for setting up the network [here][4]. I'm not leaving you out to dry yet don't worry. BUT READ THIS LINK FIRST.
- <a name="file_edits_"> So what you can do is edit this one file at `/etc/wpa_supplicant/wpa_supplicant.conf` and what you need to do is copy this part:
+ 
+ <a name="file_edits_"></a> So what you can do is edit this one file at `/etc/wpa_supplicant/wpa_supplicant.conf` and what you need to do is copy this part:
 {% highlight bash %}
 network={
 ssid="replace_with_your_ssid"
@@ -47,6 +51,7 @@ This starts an SSH server on your RPi on boot.
 Now all you gotta do is connect to the same WiFi from your PC!
 
 <center><i id="scrollTo" class="fa fa-circle-o-notch fa-spin" style="font-size:24px"></i></center>
+<center><small>Note: This is an incomplete post due to lack of completion by me</small></center>
 
 [1]: https://www.raspberrypi.org/documentation/setup/
 [2]: https://www.raspberrypi.org/documentation/installation/
