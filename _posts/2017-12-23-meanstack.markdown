@@ -47,3 +47,4 @@ AngularJS. Ahhhh. I remember my days of struggle with it. Tried so much with Ang
 Anyway, from what I understand, Angular is used for SPAs or Single Page Applications. This is basically for better user experience, given that the page doesn't reload everytime. It is one of the more comprehensive client-side solutions.
 
 <center><i id="scrollTo" class="fa fa-circle-o-notch fa-spin" style="font-size:24px"></i></center>
+<center><small>Note: This is somewhat an incomplete post due to lack of completion by me</small></center>
