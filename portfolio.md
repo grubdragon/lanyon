@@ -17,10 +17,10 @@ Here are some cool things I made as part of the course!
 |To give a video-like experience to a PPT | Used only powerpoint to generate animation.|
 
 An Intro to the Power of Patterns
-<iframe src="https://drive.google.com/file/d/1b33DiyRZSQl6PFXaVWuff5SUw-Sogw7L/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1b33DiyRZSQl6PFXaVWuff5SUw-Sogw7L/preview" width="100%" height="auto"></iframe>
 
 Pattern expansion, the crux of patterns!
-<iframe src="https://drive.google.com/file/d/1SGsdpkOekXOTeikQk1rzCTxv5BW878QC/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1SGsdpkOekXOTeikQk1rzCTxv5BW878QC/preview" width="100%" height="auto"></iframe>
 
 ## Pattern Identification
 Felt creative one day, and spat this out
@@ -38,7 +38,7 @@ Re-imagined Rorschach patterns, if the other side of the paper was changed
 *Problem:* Typing at 3 AM in the night is difficult :(
 
 *Solution:* The 3xL. Tumhari Light, Tumhara Haq!
-<iframe src="https://drive.google.com/file/d/1Km6EynM_tRJV6YhZUkrgnGYEkGtOGlke/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1Km6EynM_tRJV6YhZUkrgnGYEkGtOGlke/preview" width="100%" height="auto"></iframe>
 
 Some glimpses of 3xL
 ![The lighting system when off]({{page.assetsdir}}/LED1.jpg)
@@ -48,7 +48,7 @@ Some glimpses of 3xL
 # Instruments
 
 ## Jal Tarang: The rhythm of water!
-<iframe src="https://drive.google.com/file/d/1epf6AtO9Oorpu40AdKwAev13RlhRWPcQ/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1epf6AtO9Oorpu40AdKwAev13RlhRWPcQ/preview" width="100%" height="auto"></iframe>
 
 ## Music @ Home!
-<iframe src="https://drive.google.com/file/d/1DNMlVqamoFNQA2k2IRY94gC3usjLwX_F/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1DNMlVqamoFNQA2k2IRY94gC3usjLwX_F/preview" width="100%" height="auto"></iframe>
